@@ -14,7 +14,6 @@ How to turn logging off:
 something
 */
 
-#include "stdafx.h"
 #include "Qsolve.h"
 #include <math.h>
 
